@@ -1,1 +1,1 @@
-# redesigned-ecommerce-project
+# ecommere-react-app
